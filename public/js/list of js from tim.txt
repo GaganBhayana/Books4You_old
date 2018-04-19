@@ -1,0 +1,5 @@
+arrive.min.js
+bootstrap-notify.js
+chartist.min.js
+demo.js
+-> remaining last 4 of tim
